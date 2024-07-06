@@ -35,6 +35,16 @@ i{
     margin-left: 1500px;
     margin-top: -70px;
 }
+.menu3 i{
+    margin-left: 1730px;
+    margin-top: -20px; 
+    display: flex;
+}
+.menu4 i{
+    margin-left: 1780px;
+    display: flex;
+    margin-top: -20px;
+}
 input{
     opacity: 0.3;
     border:solid gray ;
@@ -51,4 +61,11 @@ h1{
 button{
     opacity: 0.4;
     height: 40px;
+}
+.menu5 i{
+color: black;
+}
+.ir{
+    color: black;
+    width: 200px;
 }
